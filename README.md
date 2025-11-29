@@ -1,4 +1,5 @@
 --->>This is a simple console-based Tic Tac Toe game written in C.
+
 --->>Two players take turns entering positions (1–9), and the program updates the board, checks for wins, and handles invalid moves.
 
 -->Features:
