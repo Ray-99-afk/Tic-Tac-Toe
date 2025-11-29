@@ -1,19 +1,20 @@
-This is a simple console-based Tic Tac Toe game written in C.
-Two players take turns entering positions (1–9), and the program updates the board, checks for wins, and handles invalid moves.
+--->>This is a simple console-based Tic Tac Toe game written in C.
+--->>Two players take turns entering positions (1–9), and the program updates the board, checks for wins, and handles invalid moves.
 
-Features:
+-->Features:
 
-Two-player game (Player 1: X, Player 2: O).
-Displays the updated board after every move.
+1.Two-player game (Player 1: X, Player 2: O).
 
-Detects:
+2.Displays the updated board after every move.
 
-Win (rows, columns, diagonals).
+-->Detects:
 
-Draw.
+1.Win (rows, columns, diagonals).
 
-Invalid input.
+2.Draw.
 
-Already occupied cells.
+3.Invalid input.
 
-Clean and modular code (separate functions for board display and win checking).
+4.Already occupied cells.
+
+5.Clean and modular code (separate functions for board display and win checking).
